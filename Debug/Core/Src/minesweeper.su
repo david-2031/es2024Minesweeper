@@ -1,0 +1,6 @@
+../Core/Src/minesweeper.c:18:6:initializeBoard	16	static
+../Core/Src/minesweeper.c:27:6:printBoard	32	static
+../Core/Src/minesweeper.c:44:6:placeMines	24	static
+../Core/Src/minesweeper.c:53:5:countMines	32	static
+../Core/Src/minesweeper.c:67:6:revealBoard	32	static
+../Core/Src/minesweeper.c:84:5:playGame	16	static

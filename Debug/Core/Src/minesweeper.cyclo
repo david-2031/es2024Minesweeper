@@ -1,0 +1,6 @@
+../Core/Src/minesweeper.c:18:6:initializeBoard	3
+../Core/Src/minesweeper.c:27:6:printBoard	4
+../Core/Src/minesweeper.c:44:6:placeMines	2
+../Core/Src/minesweeper.c:53:5:countMines	8
+../Core/Src/minesweeper.c:67:6:revealBoard	9
+../Core/Src/minesweeper.c:84:5:playGame	6
